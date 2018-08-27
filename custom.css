@@ -1,0 +1,72 @@
+header img {
+    margin: 5px 0;
+}
+
+ul {
+    list-style-position: inside;
+    padding: 10px;
+}
+
+h4 {
+    margin: 50px 0 10px;
+}
+
+.footer-top h4 {
+    margin: 0;
+}
+
+.row {
+    background: #fff;
+    margin-bottom: 50px;
+    box-shadow: 0 5px 15px 5px rgba(0, 0, 0, 0.363);
+}
+
+
+
+h6 {
+    background: rgb(74, 76, 173);
+}
+
+.jumbotron {
+    margin: 15px;
+    background: #3850f5;
+    background-image: url(../pattern/bright-squares.png);
+}
+
+.table {
+    margin: 0;
+}
+
+p {
+    margin: 0;
+}
+
+.col-sm-3 {
+    margin: 10px 0;
+}
+
+.img-fluid {
+    border-radius: 5px;
+    box-shadow: 0 0 5px 1px rgba(0, 0, 0, 0.562);
+    transition: all 0.4s ease-out;
+}
+
+.col-sm-3:hover .img-fluid {
+    transform: scale(1.05);
+    -moz-box-shadow: 0 0 10px 2px #000000c9;
+    box-shadow: 0 0 15px 4px #00000098;
+}
+
+.lihover li {
+    text-transform: capitalize;
+    font-weight: 600;
+    -webkit-transition: all 0.3s ease-out;
+    -moz-transition: all 0.3s ease-out;
+    -ms-transition: all 0.3s ease-out;
+    -o-transition: all 0.3s ease-out;
+    transition: all 0.3s ease-out;
+}
+
+.lihover li:hover {
+    letter-spacing: 2px;
+}
