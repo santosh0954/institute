@@ -1,1 +1,1 @@
-#Simple Institute template
+# Simple Institute template
