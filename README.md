@@ -1,1 +1,1 @@
-"# first" 
+#Simple Institute template
