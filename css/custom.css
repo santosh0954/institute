@@ -29,8 +29,7 @@ h6 {
 
 .jumbotron {
     margin: 15px;
-    background: #3850f5;
-    background-image: url(../pattern/bright-squares.png);
+    background: #3850a8 url(../img/pattern.png) right top repeat;
 }
 
 .table {
